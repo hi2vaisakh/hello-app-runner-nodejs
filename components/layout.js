@@ -7,7 +7,7 @@ import Link from "next/link";
 import Logo from "./logo";
 
 export const siteTitle = "App Runner and Copilot! demo for Builders TFC Program.";
-export const topPageMessage = "Let's Get Started!";
+export const topPageMessage = "App Runner and Copilot! demo for Builders TFC Program.";
 
 export default function Layout({ children, home }) {
   return (
