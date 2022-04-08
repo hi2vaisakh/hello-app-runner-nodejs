@@ -6,7 +6,7 @@ import utilStyles from "../styles/utils.module.css";
 import Link from "next/link";
 import Logo from "./logo";
 
-export const siteTitle = "Hello App Runner and Copilot!";
+export const siteTitle = "App Runner and Copilot! demo for Builders TFC Program.";
 export const topPageMessage = "Let's Get Started!";
 
 export default function Layout({ children, home }) {
